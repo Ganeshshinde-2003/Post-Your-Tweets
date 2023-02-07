@@ -1,3 +1,6 @@
+<h1>Link for the deployed site: </h1><h2>https://react-course-2-4157f.web.app/</h2>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
