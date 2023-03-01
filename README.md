@@ -30,6 +30,14 @@
 <li>Users can log out of the app.</li>
 </ul>
 
+<h2>Responsiveness</h2>
+<p>This project is designed to be responsive, meaning it can adapt to various screen sizes. It has been tested on both laptop and mobile devices, and it should display properly on any screen.</p>
+
+![Screenshot (152)](https://user-images.githubusercontent.com/115361691/222151526-1c546f9b-7a6d-4b5d-a5cb-0b2cf29280bb.png)
+
+![Screenshot (153)](https://user-images.githubusercontent.com/115361691/222151564-676dcae7-5372-44eb-8c62-5826a7758a4d.png)
+
+
 <h2>Contributing</h2>
 <p>Contributions are always welcome! If you want to contribute to this project, please follow these steps:</p>
 <ul>
