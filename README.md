@@ -30,6 +30,18 @@
 <li>Users can log out of the app.</li>
 </ul>
 
+<h2>Contributing</h2>
+<p>Contributions are always welcome! If you want to contribute to this project, please follow these steps:</p>
+<ul>
+<li>Fork this repository.</li>
+<li>Create a new branch (git checkout -b new-feature)</li>
+<li>Make changes and commit your updates (git commit -am "Added a new feature")</li>
+<li>Push to the branch (git push origin new-feature)</li>
+<li>Create a new pull request.</li>
+</ul>
+
+
+
 
 # Getting Started with Create React App
 
