@@ -1,4 +1,16 @@
-<h1>Link for the deployed site: </h1><h2>https://react-course-2-4157f.web.app/</h2>
+<h1>Project Name: Twitter Clone</h1>
+
+<p>This project is a Twitter clone that allows users to post tweets after logging in. Users can also logout whenever they want. The app also has a liking option for each tweet, and it will display the user's photo who posted the tweet.</p>
+
+<h2>Technologies Used</h2>
+<p>This project is built using the following technologies:</p>
+<ul>
+<li>ReactJS</li>
+<li>Firebase Authentication</li>
+<li>Firebase Firestore</li>
+<li>Firebase Hosting</li>
+<li>CSS</li>
+</ul>
 
 
 # Getting Started with Create React App
