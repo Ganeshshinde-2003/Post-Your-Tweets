@@ -12,6 +12,24 @@
 <li>CSS</li>
 </ul>
 
+<h2>Installation</h2>
+<ul>
+<li>Clone this repository to your local machine using https://github.com/username/twitter-clone.git</li>
+<li>Change into the directory: cd twitter-clone</li>
+<li>Install all dependencies using npm install</li>
+<li>Start the app using npm start</li>
+<li>Open your browser and navigate to http://localhost:3000</li>
+</ul>
+
+<h2>Features</h2>
+<ul>
+<li>Users can log in with their email.</li>
+<li>Users can post tweets.</li>
+<li>Users can like tweets.</li>
+<li>The app displays the user's photo who posted the tweet.</li>
+<li>Users can log out of the app.</li>
+</ul>
+
 
 # Getting Started with Create React App
 
