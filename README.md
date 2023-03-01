@@ -5,7 +5,7 @@
 <h2>Technologies Used</h2>
 <p>This project is built using the following technologies:</p>
 <ul>
-<li>ReactJS</li>
+<li>TypeScript</li>
 <li>Firebase Authentication</li>
 <li>Firebase Firestore</li>
 <li>Firebase Hosting</li>
