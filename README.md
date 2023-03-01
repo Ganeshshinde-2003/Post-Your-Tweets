@@ -40,7 +40,16 @@
 <li>Create a new pull request.</li>
 </ul>
 
-
+<h2>Acknowledgements</h2>
+<p>This project was made possible thanks to the following technologies and resources:</p>
+<ul>
+<li>Firebase Authentication</li>
+<li>Firebase Firestore</li>
+<li>Firebase Hosting</li>
+  <li>ReactJS</li>
+<li>CSS</li>
+  <li>Fomt Awesome</li>
+</ul>
 
 
 # Getting Started with Create React App
