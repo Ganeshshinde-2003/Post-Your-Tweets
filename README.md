@@ -15,7 +15,7 @@
 
 <h2>Installation</h2>
 <ul>
-<li>Clone this repository to your local machine using https://github.com/username/twitter-clone.git</li>
+<li>Clone this repository to your local machine using https:https://github.com/Ganeshshinde-2003/Post-Your-Tweets.git</li>
 <li>Change into the directory: cd twitter-clone</li>
 <li>Install all dependencies using npm install</li>
 <li>Start the app using npm start</li>
